@@ -5,6 +5,6 @@ Tecnologias que já estudei:
 | Frontend| Backend | Banco de Dados |
 | --- | --- | --- |
 | HTML5 | PHP |  MySQL  |
-| CSS3 |  | Python |   | |
-| JavaScript |  |  C++  |   | |
-| Bootstrap |  |  C  |   | |
+| CSS3 | Python | |
+| JavaScript | C++ |   |
+| Bootstrap | C |   | 
