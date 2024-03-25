@@ -5,9 +5,9 @@ Tecnologias que já estudei:
 | Frontend| Backend | Frameworks | Banco de Dados |
 | --- | --- | --- | --- |
 | HTML5 | PHP |  Bootstrap  |  MySQL  |
-| CSS3 | Python | Node.Js | |
-| JavaScript | C++ |   |    |
-| React.js | C |   |   |
+| CSS3 | Python |  | SQL |
+| JavaScript | Node.js |   |  MongoDB  |
+| React.js |  |   |   |
 | React Native |  |  |   |
 ## :technologist: Portifólio
 Acesse o link e veja meu portifólio:
