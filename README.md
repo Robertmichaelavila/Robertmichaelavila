@@ -11,4 +11,4 @@ Tecnologias que já estudei:
 | React Native |  |  |   |
 ## :technologist: Portifólio
 Acesse o link e veja meu portifólio:
-https://robertmichaelavila.github.io/Meu_Portifolio/
+https://robertmichaelavila.github.io/portifolio/
