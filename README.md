@@ -5,7 +5,7 @@ Linguagens:
 | Frontend| Backend | Frameworks | Banco de Dados | Android |
 | --- | --- | --- | --- | --- |
 | HTML5 | PHP |  Bootstrap  |  MySQL  | Flutter |
-| CSS3 | Python |  | SQL |
+| CSS3 | Python |  | SQL | React Native |
 | JavaScript |  | Node.js |  MongoDB  |
 | React.js |  | Vue.js | MySql |  
 | React Native |  |  | Postgres |
