@@ -7,7 +7,7 @@ Linguagens:
 | HTML5 | PHP |  Bootstrap  |  MySQL  | Flutter |
 | CSS3 | Python | React.js | SQL | React Native |
 | JavaScript | Node.js | Vue.js |  MongoDB  |
-| TypeScript |  |  | MySql |  
+| TypeScript |  |  |  |  
 |  |  |  | PostgreSQL |
 
 Metodologia:
