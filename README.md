@@ -4,13 +4,10 @@ Sou Robert Michael de Ávila Barreira, tenho 20 anos. Sou um estudante esforçad
 Linguagens:
 | Frontend| Backend | Frameworks | Banco de Dados | Android | Versionamento | Designer |
 | --- | --- | --- | --- | --- | --- | --- |
-| HTML5 | PHP |  Bootstrap  |  MySQL  | Flutter |
-| CSS3 | Python | React.js | SQL | React Native |
-| JavaScript | Node.js | Vue.js |  MongoDB  |
-| TypeScript |  |  |  |  
-|  |  |  | PostgreSQL |
-
-Metodologia:
+| HTML5 | PHP |  Bootstrap  |  MySQL  | Flutter | Git | Adobe Color |
+| CSS3 | Python | React.js | SQL | React Native | GitHub | Canvas |
+| JavaScript | Node.js | Vue.js |  MongoDB  | Kotlin | Bitbucket  | Figma |
+| TypeScript |  |  | PostgreSQL |   |  |
 
 
 ## :technologist: Portifólio
