@@ -1,7 +1,7 @@
 # Hi there, I'm Robert Michael 👋
 
 ## About Me 🚀
- I am Robert Michael from Avila Barreira, I am 21 years old. I am a forced student and seek to be the best I can be. I do not give up in the face of a difficulty, instead I try to focus on how to counter solutions to achieve the imposed goals. 
+ I am Robert Michael de Avila Barreira, I am 21 years old. I am a forced student and seek to be the best I can be. I do not give up in the face of a difficulty, instead I try to focus on how to counter solutions to achieve the imposed goals. 
 
 💡 I enjoy exploring new tech stack and using them to build cool things.\
 🎓 i'm finishing my degree in systems analysis and development at the federal university of ceará campus itapajé.\
