@@ -1,10 +1,10 @@
 # Hi there, I'm Robert Michael 👋
 
 ## About Me 🚀
- My name is Robert Michael de Avila Barreira and I'm 21 years old. I'm a hard-working student and I try to be the best I can be. I don't give up in the face of difficulty, instead I try to focus on how to find the solutions to achieve the goals set before me.
+ I am a developer focused on modern web applications, working with React, Next.js, TypeScript, and Node.js in a production environment. I have experience with relational databases, Prisma, Supabase, Docker, and Vue. I have participated in architectural decisions and served in technical leadership roles.
 
 💡 I enjoy exploring new tech stack and using them to build cool things.\
-🎓 i'm finishing my degree in systems analysis and development at the federal university of ceará campus itapajé.\
+🎓 Graduated in Systems Analysis and Development from the Federal University of Ceará.\
 
 ## 🛠️ Technologies & Tools
 
@@ -20,12 +20,17 @@
 ### Back-End
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Express](https://img.shields.io/badge/-Express-000?&logo=express)
 
-### Databases
+### Databases && ORMs
 ![Postgres](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Prisma](https://img.shields.io/badge/-Prisma-000?&logo=Prisma)
+![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 
 ## 📫 How to reach me
 
