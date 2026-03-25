@@ -19,7 +19,6 @@
 
 ### Back-End
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 
 ### Databases && ORMs
 ![Postgres](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
